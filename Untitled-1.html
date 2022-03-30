@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            // dichiaro la funzione
+            function stampaDato(){
+                //recupero il valore del campo 1 e lo salvo nella variabile
+                var dato1=document.getElementById("campo1").value;
+                 //recupero il valore del campo 2 e lo salvo nella variabile
+                var dato2=document.getElementById("campo2").value;
+                // eseguo la moltiplicazione e salvo il prodotto nella variabile
+                var prodotto = dato1*dato2;
+                // salvo il prodotto nel paragrafo con id risultato
+                document.getElementById("campo3").value = prodotto;
+
+                document.getElementById("risultato").innerHTML = prodotto;
+              //alert(prodotto);
+            
+            }
+        </script>
+    </head>
+    <body>
+      <!-- inserisco i campi per prendere i valori -->
+           <input type="text" id="campo1" />
+            <input type="text" id="campo2" />
+            <input type="text" id="campo3" disabled />
+            <!-- inserisco il bottone dove associo l'azione -->
+            <button id="pulsante1" onclick="stampaDato()">clicca</button>
+            <!-- inserisco il paragrafo dove andrà il risultato -->
+             <p>Il risultato è <span id="risultato"></span> verrà salvato.</p>
+    </body>
+</html>
