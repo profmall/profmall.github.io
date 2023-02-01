@@ -1,0 +1,48 @@
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'Physics', 2020, 76);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'Physics', 2020, 85);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'Physics', 2020, 40);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'Physics', 2020, 54);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'English', 2020, 96);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'English', 2020, 99);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'English', 2020, 41);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'English', 2020, 49);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'Mathematics', 2020, 44);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'Mathematics', 2020, 42);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'Mathematics', 2020, 94);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'Mathematics', 2020, 57);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'Physics', 2021, 53);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'Physics', 2021, 85);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'Physics', 2021, 74);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'Physics', 2021, 72);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'English', 2021, 48);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'English', 2021, 76);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'English', 2021, 86);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'English', 2021, 68);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Matteo', 'Mathematics', 2021, 41);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Costa', 'Mathematics', 2021, 57);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Enzo', 'Mathematics', 2021, 92);
+INSERT INTO diplomandi (cognome, materia, anno_scolastico, voto)
+VALUES ('Rocco', 'Mathematics', 2021, 65);
